@@ -1,0 +1,7 @@
+{
+  "name": "conductores",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
